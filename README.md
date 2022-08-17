@@ -4,7 +4,7 @@ I am a senior FrontEnd Engineer and Gamer :video_game:.
 
 - 🔭 I’m currently working with Javascript, Typescript, React.js, Redux.
 
-- :notebook: I love to work Animation website.
+- :notebook: I love to work Saas websites, Dashboard, Real Estate, Animation website.
 
 - 👯 I’m looking for a new React.js role at United State.
 
