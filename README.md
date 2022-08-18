@@ -10,7 +10,7 @@ I am a senior FrontEnd Engineer and Gamer :video_game:.
 
 - :space_invader: I love fishing, video games, puzzles, and beers :beer:.
 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-chris@paulonia.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chris@paulonia.dev)](mailto:davidsreeceblue@gmail.com)
+- 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/david-reece-b0896423a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br />
