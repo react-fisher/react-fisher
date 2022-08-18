@@ -6,7 +6,7 @@ I am a senior FrontEnd Engineer and Gamer :video_game:.
 
 - :notebook: I love to work Saas websites, Dashboard, Real Estate, Animation website.
 
-- 👯 I’m looking for a new React.js role at United State.
+- 👯 I’m looking for a new React.js role at US.
 
 - :space_invader: I love fishing, video games, puzzles, and beers :beer:.
 
